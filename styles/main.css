@@ -1,0 +1,19 @@
+body{
+	background-color: red;
+}
+h1{
+	margin-bottom: 0%;
+}
+h2{
+	margin-top: 0%;
+}
+
+.testColor{
+	background-color: yellow;
+}
+.testColor2{
+	background-color: red;
+}
+.testColor3{
+	background-color: blue;
+}
